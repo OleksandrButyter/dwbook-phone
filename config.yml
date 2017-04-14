@@ -9,5 +9,5 @@ server:
 database:
  driverClass: org.postgresql.Driver
  user: postgres
- password: 20Mont04
- url: jdbc:postgresql://10.128.130.239:5432/phonebook
+ password: 12345
+ url: jdbc:postgresql://localhost:5432/phonebook
